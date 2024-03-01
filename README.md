@@ -1,5 +1,7 @@
 # Export GeoLayoutLM: Geometric Pre-training for Visual Information Extraction to ONNX.
 
+This project was conducted during the time working in VinBigdata, collab with [tranngocduvnvp](https://github.com/tranngocduvnvp).
+
 This repo was built to do NER and RE task with Vietnamese dataset (we replace Bert-Tokenizer to PhoTokenizer). But it also can apply with original model.
 
 ## Preparation

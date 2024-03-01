@@ -1,0 +1,9 @@
+python train.py --config=configs/finetune_funsd.yaml
+python train.py --config=configs/finetune_cord.yaml
+python train.py --config=configs/finetune_hanam.yaml
+python train.py --config=configs/finetune_invoice.yaml
+
+python evaluate.py --config=configs/finetune_funsd.yaml --pretrained_model_file= 
+python evaluate.py --config=configs/finetune_cord.yaml --pretrained_model_file= 
+python evaluate.py --config=configs/finetune_hanam.yaml --pretrained_model_file=
+python evaluate.py --config=configs/finetune_invoice.yaml --pretrained_model_file=

@@ -25,6 +25,7 @@ python --path_image 'YOUR_PATH_IMG' --onnx_model_path 'ONNX_MODEL.onnx'
 
 ## Example Result
 ![plot](sample_donthuoc.png)
+
 With NER task, the result was shown in `output_hanam_ONNX.txt`.
 
 Please give us :star: if it was useful to your work.

@@ -14,7 +14,7 @@ git clone https://github.com/HungVu307/vie_geo_llm
 pip install requirements.txt
 ```
 ## Export to ONNX
-Make sure that the model was trained, you can follow the [Original Repo](https://github.com/AlibabaResearch/AdvancedLiterateMachinery/tree/main/DocumentUnderstanding/GeoLayoutLM). (Save the check point in `checkpoints`)
+Make sure that the model was trained, you can follow the [Original Repo](https://github.com/AlibabaResearch/AdvancedLiterateMachinery/tree/main/DocumentUnderstanding/GeoLayoutLM). (Save the checkpoint in `checkpoints`)
 
 To export model to ONNX:
 ```bash
